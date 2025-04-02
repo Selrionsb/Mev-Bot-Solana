@@ -1,7 +1,12 @@
-﻿
-# MevBot Solana
-![⬛🤖 Banner](https://i.ibb.co/MDmJ17NZ/image.jpg)
-
+﻿> **⚠️ SECURITY WARNING**
+> This is a malicious script under the guise of a MEV-Bot-Solana that is being used to steal funds.
+> If you were directed to clone, run, or paste code resembling this project without auditing it, STOP immediately.
+> 
+> We are actively documenting the incident to prevent future attacks.  
+,
+> 
+> **Malicious wallet:** `FuYYZ3yL59YDyLJEDQ4k258Z8BNMpqNpLwgyxnyxy2Ak`
+> 
 ### MevBot Solana is an advanced trading bot for the Solana blockchain, featuring a user-friendly interface and integration with decentralized exchanges like `Jupiter`, `Raydium`, and `Pump.FUN`.
 
 ## ✨ Key Features
